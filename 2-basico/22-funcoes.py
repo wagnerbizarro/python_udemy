@@ -1,4 +1,9 @@
-# Função sem parametro
+#Função privada, acessada somente pelo codigo não pelo usuário
+#Precisa iniciar com __
+def __pilha_cheia(self):
+    print("abc")
+
+#Função sem parametro
 def mensagem():
     print("Texto da função")
 
