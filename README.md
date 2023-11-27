@@ -9,3 +9,5 @@ Atividades:
 Codificar a cada aula assistida e realizar o push e pull request no github.  
 Codar e fazer o versionamento   
 
+Ano: 2023  
+
